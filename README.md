@@ -23,8 +23,8 @@ Tempat penyimpanan data yang nilainya tetap (konstan) dan tidak dapat diubah lag
 6. Percabangan
 Struktur logika yang memungkinkan program mengambil keputusan atau mengeksekusi blok kode tertentu hanya jika kondisi tertentu terpenuhi (contoh: if, else, switch).
 
-Perulangan
-7. Struktur logika yang digunakan untuk menjalankan suatu blok kode secara berulang kali selama kondisi tertentu masih bernilai benar (contoh: for loop, while loop).
+7. Perulangan
+Struktur logika yang digunakan untuk menjalankan suatu blok kode secara berulang kali selama kondisi tertentu masih bernilai benar (contoh: for loop, while loop).
 
 <h1>Fase 4: Konsep Lanjutan dan OOP (Object-Oriented Programming)</h1><br>
 
