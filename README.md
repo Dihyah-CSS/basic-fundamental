@@ -9,7 +9,8 @@ Urutan langkah-langkah logis dan sistematis yang disusun untuk menyelesaikan sua
 Bahasa atau instruksi standar yang digunakan oleh manusia (programmer) untuk memberikan perintah kepada komputer agar menjalankan algoritma yang telah dibuat.
 
 <h1>Fase 2: Elemen Dasar Program</h1><br>
-3.Tipe Data
+
+3. Tipe Data
 Klasifikasi jenis nilai yang akan digunakan dalam program, seperti bilangan bulat (Integer), teks (String), atau nilai kebenaran (Boolean).
 
 4. Variabel
