@@ -1,50 +1,54 @@
 # basic-fundamental
 
 <h1>Fase 1: Dasar-Dasar Logika dan Alat</h1><br>
-1.Algoritma
+
+1. Algoritma
 Urutan langkah-langkah logis dan sistematis yang disusun untuk menyelesaikan suatu masalah tertentu. Ini adalah fondasi sebelum menulis kode apa pun.
 
-2.Bahasa Pemrograman
+2. Bahasa Pemrograman
 Bahasa atau instruksi standar yang digunakan oleh manusia (programmer) untuk memberikan perintah kepada komputer agar menjalankan algoritma yang telah dibuat.
 
 <h1>Fase 2: Elemen Dasar Program</h1><br>
 3.Tipe Data
 Klasifikasi jenis nilai yang akan digunakan dalam program, seperti bilangan bulat (Integer), teks (String), atau nilai kebenaran (Boolean).
 
-4.Variabel
+4. Variabel
 Tempat penyimpanan data di dalam memori komputer yang nilainya bisa diubah-ubah selama program berjalan.
 
-5.Konstanta
+5. Konstanta
 Tempat penyimpanan data yang nilainya tetap (konstan) dan tidak dapat diubah lagi setelah pertama kali diisi.
 
 <h1>Fase 3: Struktur Kontrol Alur (Control Flow)</h1><br>
-6.Percabangan
+
+6. Percabangan
 Struktur logika yang memungkinkan program mengambil keputusan atau mengeksekusi blok kode tertentu hanya jika kondisi tertentu terpenuhi (contoh: if, else, switch).
 
 Perulangan
-7.Struktur logika yang digunakan untuk menjalankan suatu blok kode secara berulang kali selama kondisi tertentu masih bernilai benar (contoh: for loop, while loop).
+7. Struktur logika yang digunakan untuk menjalankan suatu blok kode secara berulang kali selama kondisi tertentu masih bernilai benar (contoh: for loop, while loop).
 
 <h1>Fase 4: Konsep Lanjutan dan OOP (Object-Oriented Programming)</h1><br>
-8.Package
+
+8. Package
 Sebuah folder atau wadah (namespace) yang digunakan untuk mengelompokkan kode atau kelas-kelas yang saling berhubungan agar program lebih rapi dan terstruktur.
 
-9.Enkanpsulasi (Ditulis di gambar: Enkanpsulasi / Seharusnya: Enkapsulasi)
+9. Enkanpsulasi (Ditulis di gambar: Enkanpsulasi / Seharusnya: Enkapsulasi)
 Konsep membungkus data (variabel) dan fungsi (metode) ke dalam satu kesatuan (kelas), serta membatasi akses dari luar untuk melindungi data dari perubahan yang tidak diinginkan.
 
-10.Inheritance (Pewarisan)
+10. Inheritance (Pewarisan)
 Konsep di mana sebuah kelas baru dapat mewarisi properti dan metode dari kelas lain yang sudah ada, sehingga mencegah penulisan kode yang berulang.
 
-11.Polimorphisme (Ditulis di gambar: Polimorphisme / Seharusnya: Polimorfisme)
+11. Polimorphisme (Ditulis di gambar: Polimorphisme / Seharusnya: Polimorfisme)
 Konsep yang memungkinkan suatu objek memiliki banyak bentuk, atau sebuah metode memiliki cara kerja yang berbeda-beda tergantung objek mana yang memanggilnya.
 
-12.Interface
+12. Interface
 Sebuah kontrak atau kerangka kerja yang berisi metode-metode kosong. Kelas mana pun yang mengimplementasikan interface tersebut wajib membuat isi (detail kerja) dari metode-metode di dalamnya.
 
 <h1>Fase 5: Penanganan Masalah dan Perbaikan</h1><br>
-13.Error Heandling (Ditulis di gambar: Error Heandling / Seharusnya: Error Handling)
+
+13. Error Heandling (Ditulis di gambar: Error Heandling / Seharusnya: Error Handling)
 Mekanisme penanganan kesalahan (exception) yang terjadi saat program sedang berjalan (runtime) agar program tidak langsung crash atau berhenti secara tiba-tiba.
 
-14.Debugging
+14. Debugging
 Proses mencari, melacak, dan memperbaiki bug (kesalahan logika, sintaks, atau sistem) yang ada di dalam sebuah kode program agar aplikasi berjalan sesuai harapan.
 
 <h1>Berikut adalah alasan logis mengapa urutan belajarnya harus seperti itu:</h1><br>
