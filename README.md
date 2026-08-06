@@ -82,12 +82,12 @@ Setelah tahu apa yang ingin diinstruksikan (Algoritma), Anda baru memilih Bahasa
 3. Enkapsulasi, Inheritance, Polimorfisme, dan Interface adalah aturan tingkat tinggi untuk mengorganisir kode yang kompleks agar lebih rapi, aman, bisa digunakan ulang (reusable), dan mudah dikelola oleh tim. Anda tidak akan bisa memahami konsep ini jika tidak paham konsep dasar variabel dan fungsi/metode.
 
 <h1>Fase 5: Mengapa Error Handling & Debugging di akhir?</h1><br>
-Ini adalah fase pemeliharaan.</h1><br>
+<h1>Ini adalah fase pemeliharaan:</h1>
 
-Semakin kompleks program Anda (terutama setelah memakai konsep OOP), kemungkinan munculnya bug atau eror akan semakin besar.
+1. Semakin kompleks program Anda (terutama setelah memakai konsep OOP), kemungkinan munculnya bug atau eror akan semakin besar.
 
-Error Handling dipelajari agar program Anda tangguh saat menghadapi pengguna yang memasukkan input salah atau saat server bermasalah.
+2. Error Handling dipelajari agar program Anda tangguh saat menghadapi pengguna yang memasukkan input salah atau saat server bermasalah.
 
-Debugging adalah skill bertahan hidup (survival skill) wajib bagi programmer untuk melacak kesalahan di tumpukan kode yang sudah ditulis dari Fase 1 hingga 4.
+3. Debugging adalah skill bertahan hidup (survival skill) wajib bagi programmer untuk melacak kesalahan di tumpukan kode yang sudah ditulis dari Fase 1 hingga 4.
 
-Singkatnya, urutan ini memastikan Anda belajar mulai dari berpikir logis -> menyimpan data -> memproses data -> mengelola kode skala besar -> memperbaiki masalah.
+<h1>Singkatnya, urutan ini memastikan Anda belajar mulai dari berpikir logis -> menyimpan data -> memproses data -> mengelola kode skala besar -> memperbaiki masalah.</h1><br>
