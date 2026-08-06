@@ -54,32 +54,35 @@ Proses mencari, melacak, dan memperbaiki bug (kesalahan logika, sintaks, atau si
 
 <h1>Berikut adalah alasan logis mengapa urutan belajarnya harus seperti itu:</h1><br>
 
-1. Fase 1: Mengapa Algoritma & Bahasa Pemrograman pertama?
+<h1>Fase 1: Mengapa Algoritma & Bahasa Pemrograman pertama?</h1><br>
 Sebelum menulis satu baris kode pun, Anda harus tahu cara berpikir seorang programmer.
 
 Algoritma melatih logika pemecahan masalah Anda. Komputer itu bodoh; ia hanya mengikuti instruksi. Jika logika instruksi Anda salah, hasilnya pasti salah.
 
 Setelah tahu apa yang ingin diinstruksikan (Algoritma), Anda baru memilih Bahasa Pemrograman sebagai alat komunikasinya.
 
-2. Fase 2: Mengapa Tipe Data, Variabel, & Konstanta setelahnya?
-Ibarat belajar bahasa baru, ini adalah kosa kata dasar-nya.
+<h1>Fase 2: Mengapa Tipe Data, Variabel, & Konstanta setelahnya?</h1><br>
 
-Setiap program pada dasarnya hanya melakukan satu hal: memanipulasi data. Oleh karena itu, Anda harus tahu cara menyimpan data tersebut (Variabel dan Konstanta) dan mengenali bentuk/jenis datanya (Tipe Data). Tanpa komponen ini, program Anda tidak memiliki bahan baku untuk diproses.
+1. Ibarat belajar bahasa baru, ini adalah kosa kata dasar-nya.
 
-3. Fase 3: Mengapa Percabangan & Perulangan di tengah?
-Jika variabel adalah kata-kata, maka percabangan dan perulangan adalah tata bahasa (grammar) untuk membuat kalimat yang bermakna.
+2. Setiap program pada dasarnya hanya melakukan satu hal: memanipulasi data. Oleh karena itu, Anda harus tahu cara menyimpan data tersebut (Variabel dan Konstanta) dan mengenali bentuk/jenis datanya (Tipe Data). Tanpa komponen ini, program Anda tidak memiliki bahan baku untuk diproses.
 
-Kehebatan komputer terletak pada kemampuannya mengambil keputusan cepat (Percabangan) dan melakukan tugas berulang tanpa lelah (Perulangan). Setelah memiliki data (dari Fase 2), Anda menggunakan struktur kontrol ini untuk memproses data tersebut agar sesuai dengan algoritma (dari Fase 1) yang Anda buat.
+<h1>Fase 3: Mengapa Percabangan & Perulangan di tengah?</h1><br>
 
-4. Fase 4: Mengapa konsep OOP (Enkapsulasi, Inheritance, dll) di tahap lanjut?
-Ketika Anda sudah mahir menggunakan variabel dan struktur kontrol (Fase 1-3), Anda akan menyadari bahwa menulis program yang sangat besar dengan cara biasa akan membuat kode menjadi berantakan, sulit dibaca, dan rentan rusak.
+1. Jika variabel adalah kata-kata, maka percabangan dan perulangan adalah tata bahasa (grammar) untuk membuat kalimat yang bermakna.
 
-Di sinilah Anda butuh Paradigma Pemrograman Berorientasi Objek (OOP) dan pengelompokan folder (Package).
+2. Kehebatan komputer terletak pada kemampuannya mengambil keputusan cepat (Percabangan) dan melakukan tugas berulang tanpa lelah (Perulangan). Setelah memiliki data (dari Fase 2), Anda menggunakan struktur kontrol ini untuk memproses data tersebut agar sesuai dengan algoritma (dari Fase 1) yang Anda buat.
 
-Enkapsulasi, Inheritance, Polimorfisme, dan Interface adalah aturan tingkat tinggi untuk mengorganisir kode yang kompleks agar lebih rapi, aman, bisa digunakan ulang (reusable), dan mudah dikelola oleh tim. Anda tidak akan bisa memahami konsep ini jika tidak paham konsep dasar variabel dan fungsi/metode.
+<h1>Fase 4: Mengapa konsep OOP (Enkapsulasi, Inheritance, dll) di tahap lanjut?</h1><br>
 
-5. Fase 5: Mengapa Error Handling & Debugging di akhir?
-Ini adalah fase pemeliharaan.
+1. Ketika Anda sudah mahir menggunakan variabel dan struktur kontrol (Fase 1-3), Anda akan menyadari bahwa menulis program yang sangat besar dengan cara biasa akan membuat kode menjadi berantakan, sulit dibaca, dan rentan rusak.
+
+2. Di sinilah Anda butuh Paradigma Pemrograman Berorientasi Objek (OOP) dan pengelompokan folder (Package).
+
+3. Enkapsulasi, Inheritance, Polimorfisme, dan Interface adalah aturan tingkat tinggi untuk mengorganisir kode yang kompleks agar lebih rapi, aman, bisa digunakan ulang (reusable), dan mudah dikelola oleh tim. Anda tidak akan bisa memahami konsep ini jika tidak paham konsep dasar variabel dan fungsi/metode.
+
+<h1>Fase 5: Mengapa Error Handling & Debugging di akhir?
+Ini adalah fase pemeliharaan.</h1><br>
 
 Semakin kompleks program Anda (terutama setelah memakai konsep OOP), kemungkinan munculnya bug atau eror akan semakin besar.
 
