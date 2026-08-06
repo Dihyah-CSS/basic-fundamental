@@ -81,7 +81,7 @@ Setelah tahu apa yang ingin diinstruksikan (Algoritma), Anda baru memilih Bahasa
 
 3. Enkapsulasi, Inheritance, Polimorfisme, dan Interface adalah aturan tingkat tinggi untuk mengorganisir kode yang kompleks agar lebih rapi, aman, bisa digunakan ulang (reusable), dan mudah dikelola oleh tim. Anda tidak akan bisa memahami konsep ini jika tidak paham konsep dasar variabel dan fungsi/metode.
 
-<h1>Fase 5: Mengapa Error Handling & Debugging di akhir?
+<h1>Fase 5: Mengapa Error Handling & Debugging di akhir?</h1><br>
 Ini adalah fase pemeliharaan.</h1><br>
 
 Semakin kompleks program Anda (terutama setelah memakai konsep OOP), kemungkinan munculnya bug atau eror akan semakin besar.
